@@ -14,3 +14,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 |---|---|---|
 | [AbaixoDaMedia](AbaixoDaMedia) | Java | Vetores — média e elementos abaixo dela |
 | [Aceleracao](Aceleracao) | Kotlin | Funções — cálculo de aceleração média |
+| [AceleracaoKelly](AceleracaoKelly) | Java | Modelo inicial — boas-vindas e laço `for` de 1 a 5 |
