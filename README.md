@@ -16,3 +16,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [Aceleracao](Aceleracao) | Kotlin | Funções — cálculo de aceleração média |
 | [AceleracaoKelly](AceleracaoKelly) | Java | Modelo inicial — boas-vindas e laço `for` de 1 a 5 |
 | [Alfandega](Alfandega) | Java | Herança e polimorfismo — etiquetas de preço de produtos comuns, usados e importados |
+| [Alturas](Alturas) | Java | Vetor de objetos — altura média e pessoas com menos de 16 anos |
