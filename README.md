@@ -19,3 +19,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [Alturas](Alturas) | Java | Vetor de objetos — altura média e pessoas com menos de 16 anos |
 | [area](area) | Java | Interfaces e generics — soma de áreas de formas geométricas |
 | [Aumento](Aumento) | Java | Listas — aumento de salário de um funcionário pelo id |
+| [BankAccount](BankAccount) | Java | Encapsulamento — conta bancária com depósitos e saque com taxa |
