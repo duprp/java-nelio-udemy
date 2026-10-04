@@ -20,3 +20,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [area](area) | Java | Interfaces e generics — soma de áreas de formas geométricas |
 | [Aumento](Aumento) | Java | Listas — aumento de salário de um funcionário pelo id |
 | [BankAccount](BankAccount) | Java | Encapsulamento — conta bancária com depósitos e saque com taxa |
+| [BankExepction](BankExepction) | Java | Modelo inicial — `main` vazio para o exercício de exceções |
