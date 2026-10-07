@@ -25,3 +25,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [baskara](baskara) | Kotlin | Funções — raízes de equação do 2º grau pela fórmula de Bhaskara |
 | [cadastro](cadastro) | Java | CRUD em memória — cadastro, edição, consulta e exclusão de usuários por CPF |
 | [consolecalculator](consolecalculator) | Java | Classes e exceções — calculadora de console com menu de 4 operações |
+| [Conversao](Conversao) | Java | Membros estáticos — conversão de dólar para reais com IOF de 6% |
