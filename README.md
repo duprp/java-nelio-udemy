@@ -27,3 +27,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [consolecalculator](consolecalculator) | Java | Classes e exceções — calculadora de console com menu de 4 operações |
 | [Conversao](Conversao) | Java | Membros estáticos — conversão de dólar para reais com IOF de 6% |
 | [courseStudents](courseStudents) | Java | Set e equals/hashCode — total de alunos distintos em três cursos |
+| [Dates](Dates) | Java | Datas — formatação, comparação, diferença e soma/subtração com `LocalDate` |
