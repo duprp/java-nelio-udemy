@@ -30,3 +30,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [Dates](Dates) | Java | Datas — formatação, comparação, diferença e soma/subtração com `LocalDate` |
 | [estudopro](estudopro) | Java | Vetores e for-each — rascunho incompleto de soma com valores de um vetor |
 | [estudoprova](estudoprova) | Kotlin | Listas — rascunho inicial com os valores de um vetor |
+| [ExeSaida](ExeSaida) | Java | Estrutura de repetição — ímpares de 1 até X |
