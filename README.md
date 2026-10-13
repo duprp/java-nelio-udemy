@@ -32,3 +32,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [estudoprova](estudoprova) | Kotlin | Listas — rascunho inicial com os valores de um vetor |
 | [ExeSaida](ExeSaida) | Java | Estrutura de repetição — ímpares de 1 até X |
 | [Formatos](Formatos) | Java | Classes abstratas e enums — área de retângulos e círculos |
+| [hash](hash) | Java | equals e hashCode — comparação de objetos `Client` por conteúdo e por referência |
