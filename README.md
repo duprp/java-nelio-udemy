@@ -35,3 +35,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [hash](hash) | Java | equals e hashCode — comparação de objetos `Client` por conteúdo e por referência |
 | [hashdemo2](hashdemo2) | Java | Set e TreeSet — união, interseção e diferença de conjuntos |
 | [hashset](hashset) | Java | Set e HashSet — adição, busca com `contains` e iteração de produtos |
+| [IMC](IMC) | Kotlin | Condicionais — cálculo do IMC e classificação da faixa de peso |
