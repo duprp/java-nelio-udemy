@@ -37,3 +37,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [hashset](hashset) | Java | Set e HashSet — adição, busca com `contains` e iteração de produtos |
 | [IMC](IMC) | Kotlin | Condicionais — cálculo do IMC e classificação da faixa de peso |
 | [imposto](imposto) | Java | Classes abstratas e polimorfismo — imposto de pessoas físicas e jurídicas |
+| [Intervalo](Intervalo) | Java | Estrutura de repetição — quantos números estão dentro e fora do intervalo [10, 20] |
