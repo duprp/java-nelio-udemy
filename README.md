@@ -38,3 +38,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [IMC](IMC) | Kotlin | Condicionais — cálculo do IMC e classificação da faixa de peso |
 | [imposto](imposto) | Java | Classes abstratas e polimorfismo — imposto de pessoas físicas e jurídicas |
 | [Intervalo](Intervalo) | Java | Estrutura de repetição — quantos números estão dentro e fora do intervalo [10, 20] |
+| [logAcess](logAcess) | Java | Set e arquivos — total de usuários distintos em um log de acessos |
