@@ -39,3 +39,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [imposto](imposto) | Java | Classes abstratas e polimorfismo — imposto de pessoas físicas e jurídicas |
 | [Intervalo](Intervalo) | Java | Estrutura de repetição — quantos números estão dentro e fora do intervalo [10, 20] |
 | [logAcess](logAcess) | Java | Set e arquivos — total de usuários distintos em um log de acessos |
+| [LogEntry](LogEntry) | Java | Set e equals/hashCode — total de usuários distintos em um arquivo de log |
