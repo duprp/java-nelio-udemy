@@ -46,3 +46,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [Matriz](Matriz) | Java | Matrizes — encontra um valor e mostra seus vizinhos |
 | [MediaPonderada](MediaPonderada) | Kotlin | Funções — calcula a média ponderada de três notas com seus pesos |
 | [mediasem](mediasem) | Java | Strings — divide uma linha com `split` e imprime as três primeiras palavras |
+| [AceleracaoKelly](AceleracaoKelly) | Java | Laço `for` — modelo inicial do IntelliJ que imprime de 1 a 5 |
