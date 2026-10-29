@@ -44,3 +44,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [ManipulandoFiles](ManipulandoFiles) | Java | Arquivos — lê um CSV de produtos e grava um resumo com o total de cada item |
 | [map](map) | Java | Map — guarda cookies em um `TreeMap`, lista os pares e remove uma chave |
 | [Matriz](Matriz) | Java | Matrizes — encontra um valor e mostra seus vizinhos |
+| [MediaPonderada](MediaPonderada) | Kotlin | Funções — calcula a média ponderada de três notas com seus pesos |
