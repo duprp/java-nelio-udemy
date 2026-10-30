@@ -49,3 +49,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [AceleracaoKelly](AceleracaoKelly) | Java | Laço `for` — modelo inicial do IntelliJ que imprime de 1 a 5 |
 | [Negativos](Negativos) | Java | Vetores — lê N números e imprime os negativos |
 | [NumerosPares](NumerosPares) | Java | Vetores — conta quantos números digitados são pares |
+| [Pedidos](Pedidos) | Java | Composição e enums — monta um pedido com cliente e itens e mostra o resumo com total |
