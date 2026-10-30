@@ -48,3 +48,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [mediasem](mediasem) | Java | Strings — divide uma linha com `split` e imprime as três primeiras palavras |
 | [AceleracaoKelly](AceleracaoKelly) | Java | Laço `for` — modelo inicial do IntelliJ que imprime de 1 a 5 |
 | [Negativos](Negativos) | Java | Vetores — lê N números e imprime os negativos |
+| [NumerosPares](NumerosPares) | Java | Vetores — conta quantos números digitados são pares |
