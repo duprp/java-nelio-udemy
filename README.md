@@ -53,3 +53,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [Pensionato](Pensionato) | Java | Vetores de objetos — registra aluguéis de quartos e lista os ocupados ordenados |
 | [Retangulo](Retangulo) | Java | Classes e métodos — calcula área, perímetro e diagonal de um retângulo |
 | [SalarioImposto](SalarioImposto) | Java | Classes e métodos — calcula salário líquido e aplica aumento percentual |
+| [SomaVetor](SomaVetor) | Java | Vetores — soma e média de N números digitados |
