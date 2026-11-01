@@ -52,3 +52,4 @@ Cada pasta é um projeto independente. Os projetos Maven (com `pom.xml`) podem s
 | [Pedidos](Pedidos) | Java | Composição e enums — monta um pedido com cliente e itens e mostra o resumo com total |
 | [Pensionato](Pensionato) | Java | Vetores de objetos — registra aluguéis de quartos e lista os ocupados ordenados |
 | [Retangulo](Retangulo) | Java | Classes e métodos — calcula área, perímetro e diagonal de um retângulo |
+| [SalarioImposto](SalarioImposto) | Java | Classes e métodos — calcula salário líquido e aplica aumento percentual |
